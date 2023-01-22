@@ -1,0 +1,12 @@
+.posts {
+    display: grid;
+    grid-template-columns:  auto auto auto auto;
+    gap: 20px;
+    padding: 10px;
+}
+
+.single-post {
+    padding: 10px;
+    background: #ccc;
+    border-radius: 5px;
+}
